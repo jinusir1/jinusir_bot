@@ -34,6 +34,7 @@ module.exports = {
     ADDMSG: process.env.ADD_MESSAGE === undefined ? 'default' : process.env.ADD_MESSAGE,
     MUTEMSG: process.env.MUTE_MESSAGE === undefined ? 'default' : process.env.MUTE_MESSAGE,
     BOTPLK: process.env.BOT_NAME === undefined ? 'ZARA MWOL' : process.env.BOT_NAME,
+    LIST_CMND: process.env.LIST_CMND === undefined ? 'list' : process.env.LIST_CMND,
     SONGD: process.env.SONGD === undefined ? 'ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ꜱᴏɴɢ...' : process.env.SONGD,
     SONGU: process.env.SONGU === undefined ? 'ᴜᴘʟᴏᴀᴅɪɴɢ ꜱᴏɴɢ...' : process.env.SONGU,
     NOLOG: process.env.NO_LOG === undefined ? 'false' : process.env.NO_LOG,
