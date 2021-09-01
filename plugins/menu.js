@@ -32,7 +32,7 @@ Rashi.addCommand({pattern: 'menu', fromMe: false, desc: 'it send bot menu'}, (as
     var language = ''
 
 if (hrs < 12) wish = '*Good Morning ⛅*'
-if (hrs >= 12 && hrs <= 17) wish = 'Good Afternoon 🌞*'
+if (hrs >= 12 && hrs <= 17) wish = '*Good Afternoon 🌞*'
 if (hrs >= 17 && hrs <= 19) wish = '*Good Evening 🌥*'
 if (hrs >= 19 && hrs <= 24) wish = '*Good night 🌙*'
 
@@ -46,7 +46,7 @@ if (config.AUTOBİO == 'false') auto_bio = 'Off'
 ╭──────────────────╯
 │
 │       ` + wish + `
-│     *⌚` + time + `*
+│         *⌚` + time + `*
 │
 │ ▢ *ᴅᴇᴠᴇʟᴏʟᴇʀ* : ʀᴀᴀsʜɪɪ
 │ ▢ *ᴏᴡɴᴇʀ* :` + config.PLK + `
