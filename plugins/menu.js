@@ -7,7 +7,7 @@ const Rashi = require('../events');
 const config = require('../config');
 const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
 const axios = require('axios');
-const hrs = new Date().getHours()
+const hrs = new Date().getHours({ timeZone: 'Asia/Kolkata' })
 
 Rashi.addCommand({pattern: 'menu', fromMe: false, desc: 'it send bot menu'}, (async (message, match) => {
 
@@ -31,10 +31,10 @@ Rashi.addCommand({pattern: 'menu', fromMe: false, desc: 'it send bot menu'}, (as
 
     var language = ''
 
-if (hrs < 12) wish = '*May today bring you the joys of yesterday’s hopes! Good Morning ⛅*'
-if (hrs >= 12 && hrs <= 17) wish = '*Wishing you a Healthy & Happy Fabulous Noon! Good Afternoon 🌞*'
-if (hrs >= 17 && hrs <= 19) wish = '*May the setting sun take down all your sufferings with it and make you hopeful for a new day! Good Evening 🌥*'
-if (hrs >= 19 && hrs <= 24) wish = '*Touch your heart, close your eyes, make a wish & Sleep! Good night 🌙*'
+if (hrs < 12) wish = '```May today bring you the joys of yesterday’s hopes! Good Morning ⛅```'
+if (hrs >= 12 && hrs <= 17) wish = '```Wishing you a Healthy & Happy Fabulous Noon! Good Afternoon 🌞```'
+if (hrs >= 17 && hrs <= 19) wish = '```Life is short, spend it with the people you love Good Evening 🌥```'
+if (hrs >= 19 && hrs <= 24) wish = '```Touch your heart, close your eyes, make a wish & Sleep! Good night 🌙```'
 
 if (config.FULLEVA == 'true') eva = 'On'
 if (config.FULLEVA == 'false') eva = 'Off'
@@ -42,11 +42,11 @@ if (config.AUTOBİO == 'true') auto_bio = 'On'
 if (config.AUTOBİO == 'false') auto_bio = 'Off'
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `╭──────────────────╮
-    ` + config.BOTPLK + `
+   ` + config.BOTPLK + `
 ╭──────────────────╯
 │
-│   ` + wish + `
-│           *⌚` + time + `*
+   ` + wish + `
+│     *⌚` + time + `*
 │
 │ ▢ *ᴅᴇᴠᴇʟᴏʟᴇʀ* : ʀᴀᴀsʜɪɪ
 │ ▢ *ᴏᴡɴᴇʀ* :` + config.PLK + `
