@@ -20,6 +20,11 @@ Rashi.addCommand({pattern: 'menu', fromMe: false, desc: 'it send bot menu'}, (as
     var i = Math.floor(1*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
+
+    var etiketler = '';
+    message.mention.map(async (user) => {
+    etiketler += '@' + user.split('@')[0] + ',';
+    });
    
     var time = new Date().toLocaleString('HI', { timeZone: 'Asia/Kolkata' }).split(' ')[1]
 
@@ -41,11 +46,11 @@ if (config.FULLEVA == 'false') eva = 'Off'
 if (config.AUTOBİO == 'true') auto_bio = 'On'
 if (config.AUTOBİO == 'false') auto_bio = 'Off'
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, mentionedJid: [message.data.participant], caption: `╭──────────────────╮
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, contextInfo: {mentionedJid: message.mention}, caption: `╭──────────────────╮
    ` + config.BOTPLK + `
 ╭──────────────────╯
 │
-│ ʜᴇʏ ` + '@' + message.data.participant.split('@')[0] + wish + `
+│ ʜᴇʏ ` + etiketler + wish + `
 │         *⌚` + time + `*
 │
 │ ▢ *ᴅᴇᴠᴇʟᴏʟᴇʀ* : ʀᴀᴀsʜɪɪ
