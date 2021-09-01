@@ -41,11 +41,11 @@ if (config.FULLEVA == 'false') eva = 'Off'
 if (config.AUTOBİO == 'true') auto_bio = 'On'
 if (config.AUTOBİO == 'false') auto_bio = 'Off'
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `╭──────────────────╮
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, mentionedJid: [message.data.participant], caption: `╭──────────────────╮
    ` + config.BOTPLK + `
 ╭──────────────────╯
 │
-│       ` + wish + `
+│ ʜᴇʏ ` + '@' + message.data.participant.split('@')[0] + wish + `
 │         *⌚` + time + `*
 │
 │ ▢ *ᴅᴇᴠᴇʟᴏʟᴇʀ* : ʀᴀᴀsʜɪɪ
