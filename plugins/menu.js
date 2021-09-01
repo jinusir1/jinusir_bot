@@ -36,10 +36,10 @@ if (hrs >= 12 && hrs <= 17) wish = '*Wishing you a Healthy & Happy Fabulous Noon
 if (hrs >= 17 && hrs <= 19) wish = '*May the setting sun take down all your sufferings with it and make you hopeful for a new day! Good Evening 🌥*'
 if (hrs >= 19 && hrs <= 24) wish = '*Touch your heart, close your eyes, make a wish & Sleep! Good night 🌙*'
 
-if (Config.FULLEVA == 'true') eva = 'On'
-if (Config.FULLEVA == 'false') eva = 'Off'
-if (Config.AUTOBİO == 'true') auto_bio = 'On'
-if (Config.AUTOBİO == 'false') auto_bio = 'Off'
+if (config.FULLEVA == 'true') eva = 'On'
+if (config.FULLEVA == 'false') eva = 'Off'
+if (config.AUTOBİO == 'true') auto_bio = 'On'
+if (config.AUTOBİO == 'false') auto_bio = 'Off'
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `╭──────────────────╮
     ` + config.BOTPLK + `
