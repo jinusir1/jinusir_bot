@@ -29,7 +29,7 @@ Rashi.addCommand({pattern: 'menu', fromMe: false, desc: 'it send bot menu'}, (as
 ╭──────────────────╯
 │
 │   Hᴇʀ ᴜsᴇʀ ɴɪᴄᴇ ᴛᴏ ᴍᴇᴇᴛɪɴɢ ʏᴏᴜ
-│         ⌚` + time + `
+│           *⌚` + time + `*
 │
 │ ▢ *ᴅᴇᴠᴇʟᴏʟᴇʀ* : ʀᴀᴀsʜɪɪ
 │ ▢ *ᴏᴡɴᴇʀ* :` + config.PLK + `
