@@ -21,11 +21,6 @@ Rashi.addCommand({pattern: 'menu', fromMe: false, desc: 'it send bot menu'}, (as
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    var etiketler = '';
-    message.mention.map(async (user) => {
-    etiketler += '@' + user.split('@')[0] + ',';
-    });
-   
     var time = new Date().toLocaleString('HI', { timeZone: 'Asia/Kolkata' }).split(' ')[1]
 
     var wish = ''
@@ -36,10 +31,10 @@ Rashi.addCommand({pattern: 'menu', fromMe: false, desc: 'it send bot menu'}, (as
 
     var language = ''
 
-if (hrs < 12) wish = '*Good Morning ⛅*'
-if (hrs >= 12 && hrs <= 17) wish = '*Good Afternoon 🌞*'
-if (hrs >= 17 && hrs <= 19) wish = '*Good Evening 🌥*'
-if (hrs >= 19 && hrs <= 24) wish = '*Good night 🌙*'
+if (hrs < 12) wish = '*ɢᴏᴏᴅ ᴍᴏʀɴɪɴɢ ⛅*'
+if (hrs >= 12 && hrs <= 17) wish = '*ɢᴏᴏᴅ ᴀғᴛᴇʀɴᴏᴏɴ 🌞*'
+if (hrs >= 17 && hrs <= 19) wish = '*ɢᴏᴏᴅ ᴇᴠᴇɴɪɴɢ 🌥*'
+if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
 
 if (config.FULLEVA == 'true') eva = 'On'
 if (config.FULLEVA == 'false') eva = 'Off'
@@ -50,7 +45,7 @@ if (config.AUTOBİO == 'false') auto_bio = 'Off'
    ` + config.BOTPLK + `
 ╭──────────────────╯
 │
-│ ʜᴇʏ ` + etiketler + wish + `
+│ ʜᴇʏ ᴜsᴇʀ ` + wish + `
 │         *⌚` + time + `*
 │
 │ ▢ *ᴅᴇᴠᴇʟᴏʟᴇʀ* : ʀᴀᴀsʜɪɪ
