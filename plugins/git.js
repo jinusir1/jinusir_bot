@@ -18,19 +18,8 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {quoted: message.data , mimetype: Mimetype.png, caption: `*≈≈≈≈≈≈≈Links ☟︎︎︎≈≈≈≈≈≈≈≈*
- 
-
-        *Github link        _https://tinyurl.com/yggyjfgf_*
- 
-
-       *Audio commads-1     _https://tinyurl.com/yfdkmuhd_*
- 
- 
-       *Audio commads-2     _https://tinyurl.com/yejp9qkh_*
-  
-  
-      *Sticker commads      _https://tinyurl.com/yejlp33d_*
-`}) 
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {quoted: message.data , mimetype: Mimetype.png, caption: `View this item on WhatsApp: https://wa.me/p/4142346979153934/48699534332
+Price: PLN 1.00
+Description: Cʀᴇᴀᴛᴇᴅ ʙʏ ʀᴀᴀsʜɪɪ`}) 
 
 })); 
