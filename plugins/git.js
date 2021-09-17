@@ -11,26 +11,26 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
     
     
    
-  r_text[0] = "https://i.ibb.co/9rrnJ7g/20210815-080839.jpg";
+  r_text[0] = "https://ibb.co/x3hn5bG";
     
     
     var i = Math.floor(1*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {quoted: message.data , mimetype: Mimetype.png, caption: `*≈≈≈≈≈≈≈Links ☟︎︎︎≈≈≈≈≈≈≈≈*
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {quoted: message.data , mimetype: Mimetype.png, caption: `*Ajuser_v2*
  
 
-        *Github link        _https://tinyurl.com/yggyjfgf_*
+        *Github link        _https://github.com/aju001/Ajuser_v2*
  
 
-       *Audio commads-1     _https://tinyurl.com/yfdkmuhd_*
+       *Audio commads-1     _https://github.com/aju001/Ajuser_v2/tree/master/upload_*
  
  
-       *Audio commads-2     _https://tinyurl.com/yejp9qkh_*
+       *Audio commads-2     _https://github.com/aju001/Ajuser_v2/tree/master/uploads_*
   
   
-      *Sticker commads      _https://tinyurl.com/yejlp33d_*
+      *Sticker commads      _https://github.com/aju001/Ajuser_v2/tree/master/stickers_*
 `}) 
 
 })); 
