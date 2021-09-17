@@ -2,7 +2,7 @@
 ### We will always remember you..
 
 <div align="center">
-  <a href="https://ibb.co/f1hBCMV"><img src="https://i.ibb.co/8KWTjMn/20210917-093455.jpg" alt="20210917-093455" border="0"></a>
+  <a href="https://ibb.co/f1hBCMV"><img src="https://i.ibb.co/8KWTjMn/20210917-093455.jpg"width="170" height="170"/>
   <p align="center">
 <a href="#"><img title="Ajuser_v2" src="https://img.shields.io/badge/-Ajuser-yellow?&style=for-the-badge"></a>
 </p>
