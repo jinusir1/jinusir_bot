@@ -7,7 +7,7 @@ const Rashi = require('../events');
 const config = require('../config');
 const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
 const axios = require('axios');
-const zara = require('../ajuser');
+const ajuser = require('../ajuser');
 
 if (config.WORKTYPE == 'private') {
 
