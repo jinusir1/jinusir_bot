@@ -2,7 +2,7 @@
 ### We will always remember you..
 
 <div align="center">
-  <img border-radius: 15px src="https://media.giphy.com/media/QoXw903mHLu4mqPfLd/giphy.gif?cid=790b7611a48d56eec88e20cfedb2c8be6e08c0fde3f8fe72&rid=giphy.gif&ct=g.gif" width="170" height="170"/>
+  <a href="https://ibb.co/f1hBCMV"><img src="https://i.ibb.co/8KWTjMn/20210917-093455.jpg" alt="20210917-093455" border="0"></a>
   <p align="center">
 <a href="#"><img title="Ajuser_v2" src="https://img.shields.io/badge/-Ajuser-yellow?&style=for-the-badge"></a>
 </p>
