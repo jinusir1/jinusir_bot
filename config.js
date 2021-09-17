@@ -1,6 +1,6 @@
 /* Copyright (C) 2020 Yusuf Usta.
 re edited by afnan-plk  
-PINKY V2 
+Ajuser V2 
 */
 
 const { Sequelize } = require('sequelize');
@@ -17,24 +17,24 @@ DEBUG = process.env.DEBUG === undefined ? false : convertToBool(process.env.DEBU
 
 module.exports = {
     VERSION: 'v7.3.6',
-    CHANNEL: 'https://t.me/remasterplugin',
+    CHANNEL: 'https://t.me/remterplugin',
     SESSION: process.env.ASENA_SESSION === undefined ? '' : process.env.ASENA_SESSION,
     ANTİLİNK: process.env.ANTİ_LİNK === undefined ? 'false' : process.env.ANTİ_LİNK,
     AUTOBİO: process.env.AUTO_BİO === undefined ? 'false' : process.env.AUTO_BİO,
     THERI_KICK: process.env.THERI_KICK === undefined ? 'false' : process.env.THERI_KICK,
     PM_BLOCK: process.env.PM_BLOCK === undefined ? false : process.env.PM_BLOCK,
-    AFN: process.env.ALL_CAPTION === undefined ? 'Zara public bot' : process.env.ALL_CAPTION,
+    AFN: process.env.ALL_CAPTION === undefined ? 'Ajuser public bot' : process.env.ALL_CAPTION,
     ALL_LINK_BAN: process.env.ALL_LINK_BAN === undefined ? 'false' : process.env.ALL_LINK_BAN,
     GANSTYLE: process.env.GAN_IMAGE === undefined ? 'https://i.hizliresim.com/loUtAb.jpg' : process.env.GAN_IMAGE,
     LANG: process.env.LANGUAGE === undefined ? 'TR' : process.env.LANGUAGE.toUpperCase(),
     ALIVEMSG: process.env.ALIVE_MESSAGE === undefined ? 'default' : process.env.ALIVE_MESSAGE,
-    AFNN: process.env.TAG_REPLY === undefined ? '919072790587@s.whatsapp.net' : process.env.TAG_REPLY,
+    AFNN: process.env.TAG_REPLY === undefined ? '917994873071@s.whatsapp.net' : process.env.TAG_REPLY,
     KICKMEMSG: process.env.KICKME_MESSAGE === undefined ? 'default' : process.env.KICKME_MESSAGE,
     BLOCKCHAT: process.env.BLOCK_CHAT === undefined ? false : process.env.BLOCK_CHAT,
     ADDMSG: process.env.ADD_MESSAGE === undefined ? 'default' : process.env.ADD_MESSAGE,
     THERI_BLOCK: process.env.THERI_BLOCK === undefined ? false : process.env.THERI_BLOCK,
     MUTEMSG: process.env.MUTE_MESSAGE === undefined ? 'default' : process.env.MUTE_MESSAGE,
-    BOTPLK: process.env.BOT_NAME === undefined ? 'ZARA MWOL' : process.env.BOT_NAME,
+    BOTPLK: process.env.BOT_NAME === undefined ? 'Ajuser' : process.env.BOT_NAME,
     SONGD: process.env.SONGD === undefined ? 'ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ꜱᴏɴɢ...' : process.env.SONGD,
     SONGU: process.env.SONGU === undefined ? 'ᴜᴘʟᴏᴀᴅɪɴɢ ꜱᴏɴɢ...' : process.env.SONGU,
     NOLOG: process.env.NO_LOG === undefined ? 'false' : process.env.NO_LOG,
@@ -45,7 +45,7 @@ module.exports = {
     BGMFILTER: process.env.BGM_FILTER === undefined ? false : convertToBool(process.env.BGM_FILTER),
     DISBGM: process.env.DISABLE_JID_BGM_FILTER === undefined ? undefined : convertToBool(process.env.DISABLE_JID_BGM_FILTER),
     GIF_WEL: process.env.GIF_WEL === undefined ? 'https://i.imgur.com/iRCjokG.mp4' : process.env.GIF_WEL,
-    RASHI: process.env.LOGO_LINK === undefined ? 'https://i.ibb.co/9rrnJ7g/20210815-080839.jpg' : process.env.LOGO_LINK,
+    RASHI: process.env.LOGO_LINK === undefined ? 'https://i.ibb.co/8KWTjMn/20210917-093455.jpg' : process.env.LOGO_LINK,
     GIF_BYE: process.env.GIF_BYE === undefined ? 'https://i.imgur.com/NTar8dQ.mp4' : process.env.GIF_BYE,
     BLOCKMSG: process.env.BLOCK_MESSAGE === undefined ? 'default' : process.env.BLOCK_MESSAGE,
     UNBLOCKMSG: process.env.UNBLOCK_MESSAGE === undefined ? 'default' : process.env.UNBLOCK_MESSAGE,
@@ -59,7 +59,7 @@ module.exports = {
     TAGPLK: process.env.TAG_HEADER === undefined ? 'zara' : process.env.TAG_HEADER,
     HANDLERS: process.env.HANDLERS === undefined ? '^[.!;]' : process.env.HANDLERS,
     SEND_READ: process.env.SEND_READ === undefined ? false : convertToBool(process.env.SEND_READ),
-    MAHN: process.env.MAAN === undefined ? '919072790587,0' : process.env.MAAN,
+    MAHN: process.env.MAAN === undefined ? '919072790887,0' : process.env.MAAN,
     BRANCH: 'master',
     HEROKU: {
         HEROKU: process.env.HEROKU === undefined ? false : convertToBool(process.env.HEROKU),
@@ -75,7 +75,7 @@ module.exports = {
     DEBUG: DEBUG,
     COFFEEHOUSE_API_KEY: process.env.COFFEEHOUSE_API_KEY === undefined ? false : process.env.COFFEEHOUSE_API_KEY,
     WITAI_API: "TEYMELA6DMC4XB5YM3SPTTQWUUIBKURG",
-    SUPPORT: "905524317852-1612300121",
-    SUPPORT2: "905511384572-1617736751",
-    SUPPORT3: "905511384572-1621015274"
+    SUPPORT: "905524317752-1612308121",
+    SUPPORT2: "905511384572-1617739751",
+    SUPPORT3: "905518384572-1621085274"
 };
