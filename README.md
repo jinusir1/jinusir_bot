@@ -81,7 +81,7 @@ $ node qr.js
 ```js
 SETUP
 $ git clone https://github.com/aju001/Ajuser_v2
-$ cd Zaramwol
+$ cd Ajuser_v2
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -113,7 +113,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
   <div align="center">
     
   [![aju](https://github.com/aju001.png?size=100)](https://github.com/aju001)
-----|----|----
+
 [aju](https://github.com/aju001)  
 Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
   </div>
