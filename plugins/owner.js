@@ -1,4 +1,4 @@
-/* codded by raashii
+/* codded by aju
 use this git under copyright
 dont change credit
 */
@@ -7,7 +7,7 @@ const Rashi = require('../events');
 const config = require('../config');
 const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
 const axios = require('axios');
-const zara = require('../zara');
+const zara = require('../ajuser');
 
 if (config.WORKTYPE == 'private') {
 
@@ -15,7 +15,7 @@ Rashi.addCommand({pattern: 'owner', fromMe: true, desc: 'it send owner details'}
 
     var rashi = await axios.get(config.RASHI, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(rashi.data), MessageType.image, {mimetype: Mimetype.png, contextInfo: {mentionedJid: message.mention}, caption: `*` + config.BOTPLK + `*` + `\n\n CREATED BY ` + zara.Z_OWNER + `\n\n` + `*•━━━━━━━━╼  ╾━━━━━━━•*`
+    await message.sendMessage(Buffer(rashi.data), MessageType.image, {mimetype: Mimetype.png, contextInfo: {mentionedJid: message.mention}, caption: `*` + config.BOTPLK + `*` + `\n\n CREATED BY ` + Ajuser.Z_OWNER + `\n\n` + `*•━━━━━━━━╼  ╾━━━━━━━•*`
 }) 
 
 }));
