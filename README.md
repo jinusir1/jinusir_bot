@@ -4,15 +4,15 @@
 <div align="center">
   <img border-radius: 15px src="https://media.giphy.com/media/QoXw903mHLu4mqPfLd/giphy.gif?cid=790b7611a48d56eec88e20cfedb2c8be6e08c0fde3f8fe72&rid=giphy.gif&ct=g.gif" width="170" height="170"/>
   <p align="center">
-<a href="#"><img title="ZaraMwol" src="https://img.shields.io/badge/-ZaraMwol-pink?&style=for-the-badge"></a>
+<a href="#"><img title="Ajuser_v2" src="https://img.shields.io/badge/-Ajuser-yellow?&style=for-the-badge"></a>
 </p>
   </p>
 <p align="center">
-<a href="https://github.com/Raashii"><img title="Raashii" src="https://img.shields.io/badge/author-Raashii?color=blue&style=for-the-badge&logo=github"></a>
+<a href="https://github.com/aju001"><img title="aju" src="https://img.shields.io/badge/author-aju001?color=blue&style=for-the-badge&logo=github"></a>
 
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Raashii">Raashii</a> to make it public
+Project created by <a href="https://github.com/aju001">aju</a> to make it public
     <br>
        | © |
         Reserved |
