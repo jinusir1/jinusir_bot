@@ -82,7 +82,7 @@ async function whatsAsena () {
     setInterval(async () => { 
         var getGMTh = new Date().getHours()
         var getGMTm = new Date().getMinutes()
-        await axios.get('https://gist.github.com/Raashii/68b7d4455dd84d27cd1daa5bd30eb2ca/raw/').then(async (ann) => {
+        await axios.get('https://gist.github.com/aju001/571cbea6d15f48be51559198f7da9e2d/raw/').then(async (ann) => {
             const { infotr, infoen, infoes, infopt, infoid, infoaz, infohi, infoml, inforu} = ann.data.announcements          
             if (infotr !== '' && config.LANG == 'TR') {
                 while (getGMTh == 19 && getGMTm == 1) { 
@@ -310,7 +310,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                 if (config.FULLEVA == 'true') {
                     await conn.sendMessage(conn.user.jid, EVA_ACTİON, MessageType.text)
                 } else {
-                    await conn.sendMessage(conn.user.jid, fs.readFileSync("./image/logo.jpg"), MessageType.image, { caption: `『Ajuser  』\n\nHello ${conn.user.name}!\n\n*🆘 General Help For You! 🆘*\n\n🔹 *#alive:* Check if the bot is running.\n\n🔹 *#list:* Shows the complete list of commands.\n\n🔹 *#restart:* It Restarts the bot.\n\n🔹 *#shutdown:* It Shutdown/Turn off the bot.\n\n *⚠ Warning, If you shutdown/turn off, there is no command to turn on the bot So You must got to heroku & turn on the worker. ⚠*.\n\nThank You For Using zaramol. \n  Scripted By saidali💖`});
+                    await conn.sendMessage(conn.user.jid, fs.readFileSync("./image/logo.jpg"), MessageType.image, { caption: `『Ajuser  』\n\nHello ${conn.user.name}!\n\n*🆘 General Help For You! 🆘*\n\n🔹 *#alive:* Check if the bot is running.\n\n🔹 *#list:* Shows the complete list of commands.\n\n🔹 *#restart:* It Restarts the bot.\n\n🔹 *#shutdown:* It Shutdown/Turn off the bot.\n\n *⚠ Warning, If you shutdown/turn off, there is no command to turn on the bot So You must got to heroku & turn on the worker. ⚠*.\n\nThank You For Using Ajuser. \n  Scripted By aju💖`});
                 }
                 await git.fetch();
                 var commits = await git.log([config.BRANCH + '..origin/' + config.BRANCH]);
