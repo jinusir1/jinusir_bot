@@ -1,5 +1,7 @@
-## Thanks for choosing Ajuser_v2 bot 🤍
-### We will always remember you..
+<div align="center">
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+Ajuser_v2+WA+Bot...;Created+by+Aju...;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
+
 
 <div align="center">
   <a href="https://ibb.co/4wyvT9j"><img src="https://i.ibb.co/cK5fFMN/logo.jpg""width="170" height="170"/>
