@@ -7,7 +7,7 @@ const Rashi = require('../events');
 const config = require('../config');
 const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
 const axios = require('axios');
-const ajuser = require('../ajuser');
+const zera = require('../zera');
 const hrs = new Date().getHours({ timeZone: 'Asia/Kolkata' })
 
 if (config.WORKTYPE == 'private') {
