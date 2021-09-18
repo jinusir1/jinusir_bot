@@ -17,7 +17,7 @@ Rashi.addCommand({pattern: 'menu', fromMe: true, desc: 'it send bot menu'}, (asy
     var r_text = new Array ();
     
     
-    r_text[0] = "https://i.ibb.co/cK5fFMN/logo.jpg";
+    r_text[0] = "https://api.zeks.me/api/estetikpic?apikey=Raashii.life";
     
     
     var i = Math.floor(1*Math.random())
