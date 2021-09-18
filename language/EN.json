@@ -75,9 +75,9 @@
             "MUST_TEXT": "```Please reply to any message```"
         },
         "heroku": {
-            "RESTART_DESC": "Restart Zara",
+            "RESTART_DESC": "Restart Ajuser",
             "RESTART_MSG": "𝖱𝖾𝖺𝗌𝗍𝖺𝗋𝗍𝗂𝗇𝗀...😶‍🌫",
-            "SHUTDOWN_DESC": "Shutdown Zara",
+            "SHUTDOWN_DESC": "Shutdown Ajuser",
             "SHUTDOWN_MSG": "```Shutting down ⛔```",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "```Total Quota```",
@@ -227,9 +227,9 @@
             "REPLY": "*Please Respond to User's Message to Report!*"
         },
         "updater": {
-            "UPDATER_DESC": "Checks the update for Zara.",
+            "UPDATER_DESC": "Checks the update for Ajuser.",
             "UPDATE": "𝗇𝗈𝗍 𝗎𝗉𝖽𝖺𝗍𝖾𝗌 𝖺𝗋𝖾 𝗇𝗈𝗐 🙂",
-            "NEW_UPDATE": "𝖭𝖾𝗐 𝗎𝗉𝖽𝖺𝗍𝖾 𝖠𝗏𝖺𝗂𝗅𝖺𝖻𝗅𝖾 😋\n\n 𝖴𝗌𝖾 .update now 𝖿𝗈𝗋 𝗎𝗉𝖽𝖺𝗍𝖾 \n\n *𝖠𝗌𝗄 𝗌𝗎𝗉𝗉𝗈𝗋𝗍 𝗀𝗋𝗈𝗎𝗉 𝖻𝖾𝖿𝗈𝗋𝖾 𝗎𝗉𝖽𝖺𝗍𝗂𝗇𝗀 🐦* \n *https://chat.whatsapp.com/JXwRmc2lKT4IwauZnprpX5* \n\n 𝖴𝗉𝖽𝖺𝗍𝖾𝗌 𝖺𝗋𝖾 : \n\n ",
+            "NEW_UPDATE": "𝖭𝖾𝗐 𝗎𝗉𝖽𝖺𝗍𝖾 𝖠𝗏𝖺𝗂𝗅𝖺𝖻𝗅𝖾 😋\n\n 𝖴𝗌𝖾 .update now 𝖿𝗈𝗋 𝗎𝗉𝖽𝖺𝗍𝖾 \n\n *𝖠𝗌𝗄 𝗌𝗎𝗉𝗉𝗈𝗋𝗍 𝗀𝗋𝗈𝗎𝗉 𝖻𝖾𝖿𝗈𝗋𝖾 𝗎𝗉𝖽𝖺𝗍𝗂𝗇𝗀 🐤* \n *https://chat.whatsapp.com/E5UG3iYJ5d62LrTdZq7pXP* \n\n 𝖴𝗉𝖽𝖺𝗍𝖾𝗌 𝖺𝗋𝖾 : \n\n ",
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "𝖴𝗉𝖽𝖺𝗍𝗂𝗇𝗀 ⏱️",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
@@ -282,14 +282,14 @@
             "URL": "Shorten the long link."
         },
         "conventer": {
-            "MP4TOAUDİO_DESC": "𝖢𝗈𝗇𝗏𝖾𝗋𝗍𝗂𝗇𝗀 🤌",
+            "MP4TOAUDİO_DESC": "𝖢𝗈𝗇𝗏𝖾𝗋𝗍𝗂𝗇𝗀..",
             "MP4TOAUDİO_NEEDREPLY": "𝖮𝗁 𝖻𝗋𝗈 𝗒𝗈𝗎 𝗆𝗎𝗌𝗍 𝗋𝖾𝗉𝗅𝖺𝗒 𝗍𝗈 𝖺 𝗏𝗂𝖽𝖾𝗈 🥲",
-            "MP4TOAUDİO": "𝖢𝗈𝗇𝗏𝖾𝗋𝗍𝗂𝗇𝗀 🤌",
-            "ANİM_STİCK": "𝖢𝗈𝗇𝗏𝖾𝗋𝗍𝗂𝗇𝗀 🤌",
-            "ANİMATE": "𝖢𝗈𝗇𝗏𝖾𝗋𝗍𝗂𝗇𝗀 🤌",
-            "STİCKER_DESC": "𝖢𝗈𝗇𝗏𝖾𝗋𝗍𝗂𝗇𝗀 🤌",
+            "MP4TOAUDİO": "𝖢𝗈𝗇𝗏𝖾𝗋𝗍𝗂𝗇𝗀..",
+            "ANİM_STİCK": "𝖢𝗈𝗇𝗏𝖾𝗋𝗍𝗂𝗇𝗀..",
+            "ANİMATE": "𝖢𝗈𝗇𝗏𝖾𝗋𝗍𝗂𝗇𝗀..",
+            "STİCKER_DESC": "𝖢𝗈𝗇𝗏𝖾𝗋𝗍𝗂𝗇𝗀..",
             "STİCKER_NEEDREPLY": "𝖮𝗁 𝖻𝗋𝗈 𝗒𝗈𝗎 𝗆𝗎𝗌𝗍 𝗋𝖾𝗉𝗅𝖺𝗒 𝗍𝗈 𝖺 𝗌𝗍𝗂𝖼𝗄𝖾𝗋 🥲",
-            "STİCKER": "𝖢𝗈𝗇𝗏𝖾𝗋𝗍𝗂𝗇𝗀 🤌",
+            "STİCKER": "𝖢𝗈𝗇𝗏𝖾𝗋𝗍𝗂𝗇𝗀..",
             "XMEDİA_DESC": "It is a plugin with more than 25 media tools.",
             "T_FALSE": "```❌ Incorrect Blend Effect Entered!```\n```🔎 Existing Commands:```\n\n*$dodge* - Applies a pink color filter to the video.\n*$multiply* - Applies a green color filter to the video.\n*$grainmerge* - Increases the contrast of the video.\n*$and* - Applies black lightning effect according to the speed of the video.\n*$or* - Applies a white lightning effect according to the speed of the video.\n*$burn* - Applies green contrast to video.\n*$difference* - Shows the differences by applying green relief to the video.\n*$grainextract* - Shows the differences by applying gray relief to the video.\n*$divide* - Demonstrates the differences by applying a pink relief to the video.\n*$xor* - Applies both green relief and lightning effect to video.\n*$hardmix* - Mixes the colors of the video into a yellow and red tone.\n*$negation* - Turns the dynamics of the video to pink.",
             "T_NOT": "```💭 You Need To Enter Any Blend Effects!\n```🔎 Existing Commands:```\n\n*$dodge* - Applies a pink color filter to the video.\n*$multiply* - Applies a green color filter to the video.\n*$grainmerge* - Increases the contrast of the video.\n*$and* - Applies black lightning effect according to the speed of the video.\n*$or* - Applies a white lightning effect according to the speed of the video.\n*$burn* - Applies green contrast to video.\n*$difference* - Shows the differences by applying green relief to the video.\n*$grainextract* - Shows the differences by applying gray relief to the video.\n*$divide* - Demonstrates the differences by applying a pink relief to the video.\n*$xor* - Applies both green relief and lightning effect to video.\n*$hardmix* - Mixes the colors of the video into a yellow and red tone.\n*$negation* - Turns the dynamics of the video to pink.",
@@ -375,9 +375,9 @@
             "MUTE_OPEN": "```The group chat has unmuted!```"
         },
         "unvoice": {
-            "UV_DESC": "𝖢𝗈𝗇𝗏𝖾𝗋𝗍𝗂𝗇𝗀 🤌",
+            "UV_DESC": "𝖢𝗈𝗇𝗏𝖾𝗋𝗍𝗂𝗇𝗀..",
             "UV_REPLY": "𝖮𝗁 𝖻𝗋𝗈 𝗒𝗈𝗎 𝗆𝗎𝗌𝗍 𝗋𝖾𝗉𝗅𝖺𝗒 𝗍𝗈 𝖺 𝖺𝗎𝖽𝗂𝗈 🥲",
-            "UV_PROC": "𝖢𝗈𝗇𝗏𝖾𝗋𝗍𝗂𝗇𝗀 🤌"
+            "UV_PROC": "𝖢𝗈𝗇𝗏𝖾𝗋𝗍𝗂𝗇𝗀.."
         },
         "ffmpeg": {
             "FF_DESC": "Applies the desired ffmpeg filter to the video.\n⌨️ Example: .ffmpeg fade=in:0:30",
@@ -514,7 +514,7 @@
             "CM_DESC": "Get a compliment.",
             "NOT_FOUNDAC": "*Invalid Request*",
             "CM": "Hey,",
-            "BOT_DESC": "Chat with Zara.\n Use .zara <message>",
+            "BOT_DESC": "Chat with Ajuser.\n Use .aju <message>",
             "BOT": ":",
             "JOKE_DESC": "Get a random joke.",
             "DEVICE": "get the details of given mobile phone",     
@@ -581,7 +581,7 @@
             "M_AUT": "Music Author:"
         },
         "lyrics": {
-            "LY_DESC": "Zara will find the lyrics of the song.",
+            "LY_DESC": "Ajuser will find the lyrics of the song.",
             "NEED": "𝖸𝗈𝗎 𝗆𝗎𝗌𝗍 𝗋𝖾𝗉𝗅𝗒 𝖺 𝗌𝗈𝗇𝗀 𝗇𝖺𝗆𝖾 🥴",
             "SLY": "Lyrics:",
             "AUT": "Song Owner:",
@@ -590,7 +590,7 @@
         },
         "gitlink": {
             "GL": "To get github links.",
-            "RASHI": "Its send menu list."
+            "AJU": "Its send menu list."
         },
         "info": {
             "INFO_DESC": "Show chat details",
