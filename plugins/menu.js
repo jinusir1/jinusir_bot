@@ -1,4 +1,4 @@
-/* codded by raashii
+/* codded by aju
 use this git under copyright
 dont change credit
 */
@@ -7,7 +7,7 @@ const Rashi = require('../events');
 const config = require('../config');
 const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
 const axios = require('axios');
-const zara = require('../zara');
+const ajuser = require('../ajuser');
 const hrs = new Date().getHours({ timeZone: 'Asia/Kolkata' })
 
 if (config.WORKTYPE == 'private') {
@@ -17,7 +17,7 @@ Rashi.addCommand({pattern: 'menu', fromMe: true, desc: 'it send bot menu'}, (asy
     var r_text = new Array ();
     
     
-    r_text[0] = "https://api.zeks.me/api/estetikpic?apikey=Raashii.life";
+    r_text[0] = "https://i.ibb.co/cK5fFMN/logo.jpg";
     
     
     var i = Math.floor(1*Math.random())
@@ -182,7 +182,7 @@ if (config.AUTOBİO == 'false') auto_bio = ' ᴏғғ'
 │         *⌚` + time + `*
 │
 │ ▢ *ᴅᴇᴠᴇʟᴏʟᴇʀ* : Ajuser
-│ ▢ *ᴏᴡɴᴇʀ* :` + aju.Z_OWNER + `
+│ ▢ *ᴏᴡɴᴇʀ* : ` + config.PLK + `
 │ ▢ *ᴠᴇʀsɪᴏɴ* : 2.1
 │ ▢ *ғᴜʟʟ ᴇᴠᴀ* : ` + eva + `
 │ ▢ *ᴀᴜᴛᴏ ʙɪᴏ* : ` + auto_bio + `
