@@ -90,7 +90,13 @@ $ node qr.js
    // scan the qr using whatsapp web on your phone
 $ node bot.js
 ```
-
+# 📢 Guide
+Click WA logo to Join Support Group 👇
+    <br>
+<br>
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/E5UG3iYJ5d62LrTdZq7pXP)
+  <div align="center">
+    
 
 ## F.A.Q
 Answer a few frequently asked questions;
