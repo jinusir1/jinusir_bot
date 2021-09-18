@@ -94,8 +94,9 @@ $ node bot.js
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/E5UG3iYJ5d62LrTdZq7pXP)
+<a href="https://chat.whatsapp.com/E5UG3iYJ5d62LrTdZq7pXP"><img title="join support" src="https://img.shields.io/badge/join_support-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
   <div align="center">
+
     
 
 ## F.A.Q
