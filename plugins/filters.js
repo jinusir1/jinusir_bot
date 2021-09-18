@@ -149,7 +149,7 @@ if(pattern.test(message.message)){
         if(Config.BGMFILTER){
         let banned = jid.find( Jid => Jid === message.jid);
         if(banned !== undefined) return
-        if (!!message.mention && message.mention[0] == '919072790587@s.whatsapp.net') {
+        if (!!message.mention && message.mention[0] == '917994873071@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/rashii.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: 99978509,contextInfo: { forwardingScore: 3, isForwarded: true }, quoted : message.data, ptt: true})
         }
         if (!!message.mention && message.mention[0] == Config.AFNN) {
@@ -180,10 +180,10 @@ Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
     if(Config.STICKERP){
     let banned = jid.find( Jid => Jid === message.jid);
     if(banned !== undefined) return
-    if (!!message.mention && message.mention[0] == '15862077024@s.whatsapp.net') {
+    if (!!message.mention && message.mention[0] == '917994873071@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./stickers/mention.webp'), MessageType.sticker, { mimetype: Mimetype.mp4Audio, contextInfo: { forwardingScore: 1000, isForwarded: true }, quoted : message.data, ptt: false})
     }
-const array = ['Zara','Bye','bye','Poli','Dance','Gd mrng','Ara','Poyi','myr','poda','podi','Pain','girl','asena','ayin','back','Back','Bot','fuck','Fuck','Hehe','Hello','Hlo','Kill','kill','kiss','line','love','mwolu','Mwolu','single','tha','thund','z','Z','bie','Bie']
+const array = ['aju','Bye','bye','Poli','Dance','Gd mrng','Ara','Poyi','myr','poda','podi','Pain','girl','asena','ayin','back','Back','Bot','fuck','Fuck','Hehe','Hello','Hlo','Kill','kill','kiss','line','love','mwolu','Mwolu','single','tha','thund','z','Z','bie','Bie','Ajuser']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
