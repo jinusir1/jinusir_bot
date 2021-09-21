@@ -1,4 +1,4 @@
-/* Codded by: aju
+/* Codded by aju
 Telegram: t.me/phaticusthiccy
 Instagram: www.instagram.com/aju
 */
