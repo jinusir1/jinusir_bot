@@ -1,6 +1,6 @@
-/* Codded by @phaticusthiccy
+/* Codded by: aju
 Telegram: t.me/phaticusthiccy
-Instagram: www.instagram.com/kyrie.baran
+Instagram: www.instagram.com/aju
 */
 
 const Asena = require('../events');
