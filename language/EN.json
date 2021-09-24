@@ -192,7 +192,7 @@
             "UPLOADING_SONG": "ᴜᴘʟᴏᴀᴅɪɴɢ ꜱᴏɴɢ",
             "UPLOADING_SING": " ᴀʀᴇ ʏᴏᴜ ʀᴇᴀᴅʏ ᴛᴏ ʜᴇᴀʀ ",
             "VIDEO_DESC": "Downloads video from YouTube.",
-            "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=t1r_tmgQago```",
+            "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://youtu.be/dm_kVZ0m2eY```",
             "DOWNLOADING_VIDEO": "𝖶𝖺𝗂𝗍 𝖻𝗋𝗈 𝗂 𝖺𝗆 𝗌𝖾𝖺𝗋𝖼𝗁𝗂𝗇𝗀 🔍",
             "UPLOADING_VIDEO": "Ok its on uploading 📂",
             "YT_DESC": "Ok wait i am on searching 🔍",
