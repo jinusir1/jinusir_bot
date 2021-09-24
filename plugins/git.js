@@ -22,6 +22,9 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
  
 
         *Github link        _https://github.com/aju001/Ajuser_v2*
+        
+        
+       *Bot making video   _https://youtu.be/dm_kVZ0m2eY*
  
 
        *Audio commads-1     _https://github.com/aju001/Ajuser_v2/tree/master/upload_*
