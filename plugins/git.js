@@ -21,10 +21,10 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {quoted: message.data , mimetype: Mimetype.png, caption: `*Ajuser_v2*
  
 
-        *Github link        _https://github.com/aju001/Ajuser_v2*
+        *Github link        _https://github.com/aju001/Ajuser_v2_*
         
         
-       *Bot making video   _https://youtu.be/dm_kVZ0m2eY*
+       *Bot making video   _https://youtu.be/dm_kVZ0m2eY_*
  
 
        *Audio commads-1     _https://github.com/aju001/Ajuser_v2/tree/master/upload_*
