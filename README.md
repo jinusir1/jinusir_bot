@@ -32,7 +32,21 @@ Project created by <a href="https://github.com/aju001">aju</a> to make it public
 <a href="https://github.com/aju001/Ajuser_v2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/aju001/Ajuser_v2?color=grey&style=plastic"></a>
 <a href="https://github.com/aju001/Ajuser_v2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/aju001/Ajuser_v2?label=Watchers&color=grey&style=flat-circle"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-red.svg"</a>
+<h3 align="center">Contact Me:</h3>
 
+</p>
+    
+<p align="center">
+
+<a href="https://instagram.com/__aju___001?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+
+</p>
+
+<h4 align="center">Support Video For Deploy Bot:</h4>
+
+<p align="center">
+
+<a href="https://youtu.be/dm_kVZ0m2eY" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
 ```
   
 Ajuser_v2 Userbot is Open Source software open to development. 
