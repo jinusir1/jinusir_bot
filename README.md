@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <a href="https://ibb.co/4wyvT9j"><img src="https://i.ibb.co/cK5fFMN/logo.jpg""width="170" height="170"/>
+  <a href="https://ibb.co/4wyvT9j"><img src="https://i.ibb.co/K5bqKHr/20210928-161812.png""width="170" height="170"/>
   <p align="center">
 <a href="#"><img title="Ajuser_v2" src="https://img.shields.io/badge/-Ajuser-red?&style=for-the-badge"></a>
 </p>
