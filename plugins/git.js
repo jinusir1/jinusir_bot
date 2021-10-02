@@ -11,29 +11,29 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
     
     
    
-  r_text[0] = "https://i.ibb.co/K5bqKHr/20210928-161812.png";
+  r_text[0] = "https://i.ibb.co/88RdR20/Pics-Art-10-01-06-55.jpg";
     
     
     var i = Math.floor(1*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {quoted: message.data , mimetype: Mimetype.png, caption: `*Ajuser_v2*
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {quoted: message.data , mimetype: Mimetype.png, caption: `*jinu_v2*
  
 
-        *Github link        _https://github.com/aju001/Ajuser_v2_*
+        *Github link        _https://github.com/jinusir1/jinusir_bot_*
         
         
        *Bot making video   _https://youtu.be/dm_kVZ0m2eY_*
  
 
-       *Audio commads-1     _https://github.com/aju001/Ajuser_v2/tree/master/upload_*
+       *Audio commads-1     _https://github.com/jinusir1/jinusir_bot/tree/master/upload_*
  
  
-       *Audio commads-2     _https://github.com/aju001/Ajuser_v2/tree/master/uploads_*
+       *Audio commads-2     _https://github.com/jinusir1/jinusir_bot/tree/master/uploads_*
   
   
-      *Sticker commads      _https://github.com/aju001/Ajuser_v2/tree/master/stickers_*
+      *Sticker commads      _https://github.com/jinusir1/jinusir_bot/tree/master/stickers_*
 `}) 
 
 })); 
