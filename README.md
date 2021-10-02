@@ -38,7 +38,7 @@ Project created by <a href="https://github.com/jinusir1">jinu</a> to make it pub
     
 <p align="center">
 
-<a href="https://instagram.com/__ajuz___001?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/jinu__777?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 
 </p>
 
@@ -135,7 +135,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![aju](https://github.com/aju001.png?size=100)](https://github.com/aju001)
+  [![aju](https://i.ibb.co/VvbtKMq/Pics-Art-10-02-02-56.jpg?size=100)](https://github.com/jinusir1)
 
 [aju](https://github.com/aju001)  
 Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
