@@ -10,11 +10,11 @@
 </p>
   </p>
 <p align="center">
-<a href="https://github.com/aju001"><img title="aju" src="https://img.shields.io/badge/author-aju001?color=blue&style=for-the-badge&logo=github"></a>
+<a href="https://github.com/jinusir1"><img title="jinu" src="https://img.shields.io/badge/author-jinu001?color=blue&style=for-the-badge&logo=github"></a>
 
 </div>
 <p align="center">
-Project created by <a href="https://github.com/aju001">aju</a> to make it public
+Project created by <a href="https://github.com/jinusir1">jinu</a> to make it public
     <br>
        | © |
         Reserved |
@@ -24,7 +24,7 @@ Project created by <a href="https://github.com/aju001">aju</a> to make it public
 ----
 
   <p align="center">
-  <a href="https://github.com/aju001/Ajuser_v2 ">
+  <a href="https://github.com/jinusir1/jinusir_bot ">
     <img src="https://img.shields.io/github/repo-size/aju001/Ajuser_v2?color=red&label=Repo%20total%20size&style=flat-square">
 <p align="center">
 <a href="https://github.com/aju001/followers"><img title="Followers" src="https://img.shields.io/github/followers/aju001?color=grey&style=plastic"></a>
