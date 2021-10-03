@@ -172,7 +172,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "i am alive  \n\n ```Ajuser``` \n\n ```type*.help*for commands```"
+            "value": "i am alive  \n\n ```jinusir``` \n\n ```type*.help*for commands```"
         },
         "BAN_MESSAGE": {
             "description": "Customizable kick Message! Use => default, to change back.",
