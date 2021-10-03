@@ -24,7 +24,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
         *Github link        _https://github.com/jinusir1/jinusir_bot_*
         
         
-       *Bot making video   _https://youtu.be/dm_kVZ0m2eY_*
+       *Owner instagram id   _https://instagram.com/jinu__777?utm_medium=copy_link_*
  
 
        *Audio commads-1     _https://github.com/jinusir1/jinusir_bot/tree/master/upload_*
