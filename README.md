@@ -86,8 +86,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/aju001/Ajuser_v2
-$ cd Ajuser_v2
+$ git clone https://github.com/jinusir1/jinusir_bot
+$ cd jinusir_bot
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -96,8 +96,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/aju001/Ajuser_v2
-$ cd Ajuser_v2
+$ git clone https://github.com/jinusir1/jinusir_bot
+$ cd jinusir_bot
 $ chmod +x *
 $ npm i
 $ node qr.js
