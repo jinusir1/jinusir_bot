@@ -138,7 +138,7 @@ if (config.AUTOBİO == 'false') auto_bio = 'Off'
 │ ▢ .sᴇᴛᴠᴀʀ
 │ 
 │
-│   ❏ *Ajuser* ❏
+│   ❏ *jinusir* ❏
 ╰──────────────────╯
 `}) 
 
