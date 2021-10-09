@@ -49,7 +49,7 @@ Project created by <a href="https://github.com/jinusir1">jinu</a> to make it pub
 <a href="https://jinu.code.blog/" target="blank"><img align="center" src="https://i.ibb.co/bvSjPGt/download.png" height="45" width="90" /></a>
 ```
   
-Ajuser_v2 Userbot is Open Source software open to development. 
+jinhdir_v2 Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
 and use it in a way that they customize. In addition, plug-in support enables users to 
@@ -135,9 +135,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![aju](https://i.ibb.co/VvbtKMq/Pics-Art-10-02-02-56.jpg?size=100)](https://github.com/jinusir1)
+  [![jinu](https://i.ibb.co/VvbtKMq/Pics-Art-10-02-02-56.jpg?size=100)](https://github.com/jinusir1)
 
-[aju](https://github.com/aju001)  
+[jinu](https://github.com/jinusir1)  
 Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
   </div>
 
