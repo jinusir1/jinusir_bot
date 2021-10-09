@@ -36,7 +36,7 @@ Project created by <a href="https://github.com/jinusir1">jinu</a> to make it pub
 
 </p>
     
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://chat.whatsapp.com/BRPbS6JHUoCE480MpLLM5z)
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://chat.whatsapp.com/JscI6briAP7KmxbZUW8ua7)
 
 <h3 align="center">Contact Me:</h3>
 <a href="https://instagram.com/jinu__777?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
