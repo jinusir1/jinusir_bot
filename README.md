@@ -32,14 +32,14 @@ Project created by <a href="https://github.com/jinusir1">jinu</a> to make it pub
 <a href="https://github.com/jinusir1/jinusir_bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/jinusir1/jinusir_bot?color=grey&style=plastic"></a>
 <a href="https://github.com/jinusir1/jinusir_bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/jinusir1/jinusir_bot?label=Watchers&color=grey&style=flat-circle"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-red.svg"</a>
-<h3 align="center">Contact Me:</h3>
+
 
 </p>
     
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jinusir&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
 
   </div>
-
+<h3 align="center">Contact Me:</h3>
 <a href="https://instagram.com/jinu__777?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 
 </p>
