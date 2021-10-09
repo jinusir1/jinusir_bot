@@ -25,12 +25,12 @@ Project created by <a href="https://github.com/jinusir1">jinu</a> to make it pub
 
   <p align="center">
   <a href="https://github.com/jinusir1/jinusir_bot ">
-    <img src="https://img.shields.io/github/repo-size/aju001/Ajuser_v2?color=red&label=Repo%20total%20size&style=flat-square">
+    <img src="https://img.shields.io/github/repo-size/jinusir1/jinusir_bot?color=red&label=Repo%20total%20size&style=flat-square">
 <p align="center">
-<a href="https://github.com/aju001/followers"><img title="Followers" src="https://img.shields.io/github/followers/aju001?color=grey&style=plastic"></a>
-<a href="https://github.com/aju001/Ajuser_v2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/aju001/Ajuser?color=grey&style=plastic"></a>
-<a href="https://github.com/aju001/Ajuser_v2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/aju001/Ajuser_v2?color=grey&style=plastic"></a>
-<a href="https://github.com/aju001/Ajuser_v2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/aju001/Ajuser_v2?label=Watchers&color=grey&style=flat-circle"></a>
+<a href="https://github.com/jinusir1/followers"><img title="Followers" src="https://img.shields.io/github/followers/jinusir1?color=grey&style=plastic"></a>
+<a href="https://github.com/jinusir1/jinusir_bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/jinusir1/jinusir1?color=grey&style=plastic"></a>
+<a href="https://github.com/jinusir1/jinusir_bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/jinusir1/jinusir_bot?color=grey&style=plastic"></a>
+<a href="https://github.com/jinusir1/jinusir_bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/jinusir1/jinusir_bot?label=Watchers&color=grey&style=flat-circle"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-red.svg"</a>
 <h3 align="center">Contact Me:</h3>
 
