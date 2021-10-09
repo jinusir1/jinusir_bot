@@ -229,7 +229,7 @@
         "updater": {
             "UPDATER_DESC": "Checks the update for Ajuser.",
             "UPDATE": "𝗇𝗈𝗍 𝗎𝗉𝖽𝖺𝗍𝖾𝗌 𝖺𝗋𝖾 𝗇𝗈𝗐 🙂",
-            "NEW_UPDATE": "𝖭𝖾𝗐 𝗎𝗉𝖽𝖺𝗍𝖾 𝖠𝗏𝖺𝗂𝗅𝖺𝖻𝗅𝖾 😋\n\n 𝖴𝗌𝖾 .update now 𝖿𝗈𝗋 𝗎𝗉𝖽𝖺𝗍𝖾 \n\n *𝖠𝗌𝗄 𝗌𝗎𝗉𝗉𝗈𝗋𝗍 𝗀𝗋𝗈𝗎𝗉 𝖻𝖾𝖿𝗈𝗋𝖾 𝗎𝗉𝖽𝖺𝗍𝗂𝗇𝗀 🐤* \n *https://chat.whatsapp.com/E5UG3iYJ5d62LrTdZq7pXP* \n\n 𝖴𝗉𝖽𝖺𝗍𝖾𝗌 𝖺𝗋𝖾 : \n\n ",
+            "NEW_UPDATE": "𝖭𝖾𝗐 𝗎𝗉𝖽𝖺𝗍𝖾 𝖠𝗏𝖺𝗂𝗅𝖺𝖻𝗅𝖾 😋\n\n 𝖴𝗌𝖾 .update now 𝖿𝗈𝗋 𝗎𝗉𝖽𝖺𝗍𝖾 \n\n *𝖠𝗌𝗄 𝗌𝗎𝗉𝗉𝗈𝗋𝗍 𝗀𝗋𝗈𝗎𝗉 𝖻𝖾𝖿𝗈𝗋𝖾 𝗎𝗉𝖽𝖺𝗍𝗂𝗇𝗀 🐤* \n *https://chat.whatsapp.com/JscI6briAP7KmxbZUW8ua7* \n\n 𝖴𝗉𝖽𝖺𝗍𝖾𝗌 𝖺𝗋𝖾 : \n\n ",
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "𝖴𝗉𝖽𝖺𝗍𝗂𝗇𝗀 ⏱️",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
@@ -581,7 +581,7 @@
             "M_AUT": "Music Author:"
         },
         "lyrics": {
-            "LY_DESC": "Ajuser will find the lyrics of the song.",
+            "LY_DESC": "jinusir will find the lyrics of the song.",
             "NEED": "𝖸𝗈𝗎 𝗆𝗎𝗌𝗍 𝗋𝖾𝗉𝗅𝗒 𝖺 𝗌𝗈𝗇𝗀 𝗇𝖺𝗆𝖾 🥴",
             "SLY": "Lyrics:",
             "AUT": "Song Owner:",
