@@ -43,7 +43,7 @@ Project created by <a href="https://github.com/jinusir1">jinu</a> to make it pub
 
 </p>
 
-<h4 align="center">jinusir movie downloadin website:</h4>
+<h4 align="center">jinusir movie downloading website:</h4>
 
 <p align="center">
 
