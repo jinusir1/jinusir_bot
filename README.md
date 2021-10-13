@@ -43,11 +43,11 @@ Project created by <a href="https://github.com/jinusir1">jinu</a> to make it pub
 
 </p>
 
-<h4 align="center">jinusir official website:</h4>
+<h4 align="center">jinusir movie downloadin website:</h4>
 
 <p align="center">
 
-<a href="https://jinu.code.blog/" target="blank"><img align="center" src="https://i.ibb.co/bvSjPGt/download.png" height="45" width="90" /></a>
+<a href="https://www.jinmovies.ga/?m=1/" target="blank"><img align="center" src="https://i.ibb.co/bvSjPGt/download.png" height="45" width="90" /></a>
 ```
   
 jinusir_v2 Userbot is Open Source software open to development. 
