@@ -183,7 +183,7 @@ Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
     if (!!message.mention && message.mention[0] == '13072881866@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./stickers/mention.webp'), MessageType.sticker, { mimetype: Mimetype.mp4Audio, contextInfo: { forwardingScore: 1000, isForwarded: true }, quoted : message.data, ptt: false})
     }
-const array = ['aju','Bye','bye','Poli','Dance','Gd mrng','Ara','Poyi','myr','poda','podi','Pain','girl','asena','ayin','back','Back','Bot','fuck','Fuck','Hehe','Hello','Hlo','Kill','kill','kiss','line','love','mwolu','Mwolu','single','tha','thund','z','Z','bie','Bie','Ajuser']
+const array = ['Bye','bye','Poli','Dance','Gd mrng','Ara','Poyi','myr','poda','podi','Pain','girl','asena','ayin','back','Back','Bot','fuck','Fuck','Hehe','Hello','Hlo','Kill','kill','kiss','line','love','mwolu','Mwolu','single','tha','thund','z','Z','bie','Bie','cr7','Love','mandanna','najuva','nanban','rashmika','Ronaldo','sigle','smile','tamanna','vijay','thalapathy','jinusir']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
