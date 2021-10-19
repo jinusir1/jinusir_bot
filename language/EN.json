@@ -75,9 +75,9 @@
             "MUST_TEXT": "```Please reply to any message```"
         },
         "heroku": {
-            "RESTART_DESC": "Restart Ajuser",
+            "RESTART_DESC": "Restart jinusir",
             "RESTART_MSG": "𝖱𝖾𝖺𝗌𝗍𝖺𝗋𝗍𝗂𝗇𝗀...😶‍🌫",
-            "SHUTDOWN_DESC": "Shutdown Ajuser",
+            "SHUTDOWN_DESC": "Shutdown jinusir",
             "SHUTDOWN_MSG": "```Shutting down ⛔```",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "```Total Quota```",
@@ -227,7 +227,7 @@
             "REPLY": "*Please Respond to User's Message to Report!*"
         },
         "updater": {
-            "UPDATER_DESC": "Checks the update for Ajuser.",
+            "UPDATER_DESC": "Checks the update for jinusir.",
             "UPDATE": "𝗇𝗈𝗍 𝗎𝗉𝖽𝖺𝗍𝖾𝗌 𝖺𝗋𝖾 𝗇𝗈𝗐 🙂",
             "NEW_UPDATE": "𝖭𝖾𝗐 𝗎𝗉𝖽𝖺𝗍𝖾 𝖠𝗏𝖺𝗂𝗅𝖺𝖻𝗅𝖾 😋\n\n 𝖴𝗌𝖾 .update now 𝖿𝗈𝗋 𝗎𝗉𝖽𝖺𝗍𝖾 \n\n *𝖠𝗌𝗄 𝗌𝗎𝗉𝗉𝗈𝗋𝗍 𝗀𝗋𝗈𝗎𝗉 𝖻𝖾𝖿𝗈𝗋𝖾 𝗎𝗉𝖽𝖺𝗍𝗂𝗇𝗀 🐤* \n *https://chat.whatsapp.com/JscI6briAP7KmxbZUW8ua7* \n\n 𝖴𝗉𝖽𝖺𝗍𝖾𝗌 𝖺𝗋𝖾 : \n\n ",
             "UPDATE_NOW_DESC": "It makes updates.",
@@ -514,7 +514,7 @@
             "CM_DESC": "Get a compliment.",
             "NOT_FOUNDAC": "*Invalid Request*",
             "CM": "Hey,",
-            "BOT_DESC": "Chat with Ajuser.\n Use .aju <message>",
+            "BOT_DESC": "Chat with jinusir.\n Use .jinu <message>",
             "BOT": ":",
             "JOKE_DESC": "Get a random joke.",
             "DEVICE": "get the details of given mobile phone",     
@@ -590,7 +590,7 @@
         },
         "gitlink": {
             "GL": "To get github links.",
-            "AJU": "Its send menu list."
+            "Jinu": "Its send menu list."
         },
         "info": {
             "INFO_DESC": "Show chat details",
