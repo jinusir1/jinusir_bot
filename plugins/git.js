@@ -24,7 +24,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
         *Github link        _https://github.com/husniser/husnisir_v2_*
         
         
-       *Owner instagram id   _https://instagram.com/husni_jr?utm_medium=copy_link*
+       *Owner instagram id   _https://instagram.com/_husni__jr_?utm_medium=copy_link*
  
 
        *Audio commads-1     _https://github.com/husniser/husnisir_v2/tree/master/upload_*
