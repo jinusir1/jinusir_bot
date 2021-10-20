@@ -136,7 +136,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![husni](https://i.ibb.co/VvbtKMq/Pics-Art-10-02-02-56.jpg?size=100)](https://github.com/husniser)
+  [![husni](https://i.ibb.co/NCcDB9t/Screenshot-2021-10-16-11-14-20-1.png?size=100)](https://github.com/husniser)
 
 [husni](https://github.com/husniser)  
 Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
