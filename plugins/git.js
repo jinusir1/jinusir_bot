@@ -11,7 +11,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
     
     
    
-  r_text[0] = "https://i.ibb.co/88RdR20/Pics-Art-10-01-06-55.jpg";
+  r_text[0] = "https://i.ibb.co/NCcDB9t/Screenshot-2021-10-16-11-14-20-1.png";
     
     
     var i = Math.floor(1*Math.random())
@@ -21,19 +21,19 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {quoted: message.data , mimetype: Mimetype.png, caption: `*jinu_v2*
  
 
-        *Github link        _https://github.com/jinusir1/jinusir_bot_*
+        *Github link        _https://github.com/husniser/husnisir_v2_*
         
         
-       *Owner instagram id   _https://instagram.com/jinu___777?utm_medium=copy_link*
+       *Owner instagram id   _https://instagram.com/husni_jr?utm_medium=copy_link*
  
 
-       *Audio commads-1     _https://github.com/jinusir1/jinusir_bot/tree/master/upload_*
+       *Audio commads-1     _https://github.com/husniser/husnisir_v2/tree/master/upload_*
  
  
-       *Audio commads-2     _https://github.com/jinusir1/jinusir_bot/tree/master/uploads_*
+       *Audio commads-2     _https://github.com/husniser/husnisir_v2/tree/master/uploads_*
   
   
-      *Sticker commads      _https://github.com/jinusir1/jinusir_bot/tree/master/stickers_*
+      *Sticker commads      _https://github.com/husniser/husnisir_v2/tree/master/stickers_*
 `}) 
 
 })); 
