@@ -43,7 +43,7 @@ Project created by <a href="https://github.com/husniser">husni</a> to make it pu
 
 </p>
 
-<h4 align="center">husnisir movie downloading website:</h4>
+<h4 align="center">husni website:</h4>
 
 <p align="center">
 
