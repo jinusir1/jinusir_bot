@@ -11,7 +11,7 @@ Asena.addCommand({pattern: 'setvar', fromMe: false, desc: Lang.WP}, (async (mess
     var r_text = new Array ();
     
     
-    r_text[0] = "https://i.ibb.co/K5bqKHr/20210928-161812.png";
+    r_text[0] = "https://i.ibb.co/wYBsYcS/Pics-Art-10-20-12-43-38.jpg";
     
     
     var i = Math.floor(1*Math.random())
@@ -90,10 +90,10 @@ All setvars are
  To get a song when your number is mentioned
  .setvar TAG_REPPLY:your jid 
  
-     *happy using Ajuser bot ❣️*
+     *happy using husni bot ❣️*
      
 *Editing And Devaloper : Aju -Ajuser*
-*Erorr Fixing : aju 💌*
+*Erorr Fixing : husni 💌*
 *Supporting :  🤍*
 *User Support :❤*
       ═════💢💢═════
