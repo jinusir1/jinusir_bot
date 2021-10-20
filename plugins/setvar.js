@@ -92,7 +92,7 @@ All setvars are
  
      *happy using husni bot ❣️*
      
-*Editing And Devaloper : Aju -Ajuser*
+*Editing And Devaloper : husni -husnisir*
 *Erorr Fixing : husni 💌*
 *Supporting :  🤍*
 *User Support :❤*
