@@ -281,7 +281,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                 if (config.FULLEVA == 'true') {
                     await conn.sendMessage(conn.user.jid, EVA_ACTİON, MessageType.text)
                 } else {
-                   await conn.sendMessage(conn.user.jid, fs.readFileSync("./image/https://i.ibb.co/NCcDB9t/Screenshot-2021-10-16-11-14-20-1.png"), MessageType.image, { caption: `*ʜᴇʏ  husniser_v2 ᴡᴏʀᴋɪɴɢ ᴜs ᴘᴜʙʟɪᴄ* \n\n*⚠ #ownercmnd ғᴏʀ ᴏᴡɴᴇʀ ᴄᴏᴍᴍᴀɴᴅs* \n\n*Thank You For Using husniser_v2 ❤‍🩹*`});
+                   await conn.sendMessage(conn.user.jid, fs.readFileSync("./image/logo.jpg"), MessageType.image, { caption: `*ʜᴇʏ  husniser_v2 ᴡᴏʀᴋɪɴɢ ᴜs ᴘᴜʙʟɪᴄ* \n\n*⚠ #ownercmnd ғᴏʀ ᴏᴡɴᴇʀ ᴄᴏᴍᴍᴀɴᴅs* \n\n*Thank You For Using husniser_v2 ❤‍🩹*`});
                }               
                 await git.fetch();
                 var commits = await git.log([config.BRANCH + '..origin/' + config.BRANCH]);
