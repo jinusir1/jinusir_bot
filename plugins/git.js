@@ -21,19 +21,19 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {quoted: message.data , mimetype: Mimetype.png, caption: `*husni_v2*
  
 
-        *Github link        _https://github.com/husniser/husnisir_v2_*
+        *Github link        _https://github.com/husniser/husni_v2_*
         
         
        *Owner instagram id   _https://instagram.com/_husni__jr_?utm_medium=copy_link*
  
 
-       *Audio commads-1     _https://github.com/husniser/husnisir_v2/tree/master/upload_*
+       *Audio commads-1     _https://github.com/husniser/husni_v2/tree/master/upload_*
  
  
-       *Audio commads-2     _https://github.com/husniser/husnisir_v2/tree/master/uploads_*
+       *Audio commads-2     _https://github.com/husniser/husni_v2/tree/master/uploads_*
   
   
-      *Sticker commads      _https://github.com/husniser/husnisir_v2/tree/master/stickers_*
+      *Sticker commads      _https://github.com/husniser/husni_v2/tree/master/stickers_*
 `}) 
 
 })); 
