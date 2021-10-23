@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://ibb.co/w0Q2QnG"><img src="https://i.ibb.co/wYBsYcS/Pics-Art-10-20-12-43-38.jpg""width="170" height="170"/>
   <p align="center">
-<a href="#"><img title="husnisir_v2" src="https://img.shields.io/badge/-husni-red?&style=for-the-badge"></a>
+<a href="#"><img title="husni_v2" src="https://img.shields.io/badge/-husni-red?&style=for-the-badge"></a>
 </p>
   </p>
 <p align="center">
@@ -24,13 +24,13 @@ Project created by <a href="https://github.com/husniser">husni</a> to make it pu
 ----
 
   <p align="center">
-  <a href="https://github.com/husniser/husnisir_v2 ">
-    <img src="https://img.shields.io/github/repo-size/husniser/husnisir_v2?color=red&label=Repo%20total%20size&style=flat-square">
+  <a href="https://github.com/husniser/husni_v2 ">
+    <img src="https://img.shields.io/github/repo-size/husniser/husni_v2?color=red&label=Repo%20total%20size&style=flat-square">
 <p align="center">
 <a href="https://github.com/husniser/followers"><img title="Followers" src="https://img.shields.io/github/followers/husniser?color=grey&style=plastic"></a>
-<a href="https://github.com/husniser/husnisir_v2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/husniser/husniser?color=grey&style=plastic"></a>
-<a href="https://github.com/husniser/husnisir_v2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/husniser/husnisir_v2?color=grey&style=plastic"></a>
-<a href="https://github.com/husniser/husnisir_v2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/husniser/husnisir_v2?label=Watchers&color=grey&style=flat-circle"></a>
+<a href="https://github.com/husniser/husni_v2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/husniser/husniser?color=grey&style=plastic"></a>
+<a href="https://github.com/husniser/husni_v2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/husniser/husni_v2?color=grey&style=plastic"></a>
+<a href="https://github.com/husniser/husni_v2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/husniser/husni_v2?label=Watchers&color=grey&style=flat-circle"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-red.svg"</a>
 
 
@@ -50,7 +50,7 @@ Project created by <a href="https://github.com/husniser">husni</a> to make it pu
 <a href="https://mubarakgaming.blogspot.com/?m=1/" target="blank"><img align="center" src="https://i.ibb.co/bvSjPGt/download.png" height="45" width="90" /></a>
 ```
   
-husnisir_v2 Userbot is Open Source software open to development. 
+husni_v2 Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
 and use it in a way that they customize. In addition, plug-in support enables users to 
@@ -73,7 +73,7 @@ the user is responsible.
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@aju0011/Ajuserv2-Qr)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/husniser/husnisir_v2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/husniser/husni_v2)
      </div>
 <br>
 <br >
@@ -87,8 +87,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/husniser/husnisir_v2
-$ cd husnisir_v2
+$ git clone https://github.com/husniser/husni_v2
+$ cd husni_v2
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -97,8 +97,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/husniser/husnisir_v2
-$ cd husnisir_v2
+$ git clone https://github.com/husniser/husni_v2
+$ cd husni_v2
 $ chmod +x *
 $ npm i
 $ node qr.js
