@@ -11,7 +11,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
     
     
    
-  r_text[0] = "https://i.ibb.co/NCcDB9t/Screenshot-2021-10-16-11-14-20-1.png";
+  r_text[0] = "https://i.ibb.co/Q8gs4HK/Pics-Art-10-23-06-10-31.jpg";
     
     
     var i = Math.floor(1*Math.random())
