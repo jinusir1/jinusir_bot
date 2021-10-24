@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <a href="https://ibb.co/w0Q2QnG"><img src="https://i.ibb.co/Q8gs4HK/Pics-Art-10-23-06-10-31.jpg""width="170" height="170"/>
+  <a href="https://ibb.co/w0Q2QnG"><img src="https://i.ibb.co/St28Zqw/20211024-122129.jpg""width="170" height="170"/>
   <p align="center">
 <a href="#"><img title="husni_v2" src="https://img.shields.io/badge/-husni-red?&style=for-the-badge"></a>
 </p>
