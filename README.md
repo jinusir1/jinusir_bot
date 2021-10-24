@@ -147,4 +147,4 @@ Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
 This project is protected by `GNU General Public Licence v3.0` license.
 
 ### Disclaimer
-`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
+`WhatsApp` name, its vriations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
