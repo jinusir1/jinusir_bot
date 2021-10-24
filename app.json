@@ -3,7 +3,7 @@
     "description": "husni_v2 - re-edited from asena. World’s first UserBot made for WhatsApp.",
     "logo": "https://i.ibb.co/St28Zqw/20211024-122129.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/jinusir1/jinusir_bot",
+    "repository": "https://github.com/husniser/husni_v2",
     "website":   "under maintenance",
     "success_url": "under maintenance",
     "stack": "container",
@@ -133,7 +133,7 @@
         "TAG_HEADER": {
             "description": "Heading when taging all",
             "required": false,
-            "value": "ellarum husnimone neeram pole nokkane 😢 nallathu cheydal nallathu kittum 😎"
+            "value": "default"
         },
         "UNMUTE_MESSAGE": {
             "description": "Düzenlenebilir Unmute Mesajı. Customizable Unmute Message! Use => default, to change back.",
@@ -172,7 +172,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "i am alive  \n\n Njan ivde ind engittum poyittilla 😎 \n\n  ```❌husni_v2❌``` \n\n ```type*.help*for commands```"
+            "value": "i am alive  \n\n  ```❌husni_v2❌``` \n\n ```type*.help*for commands```"
         },
         "BAN_MESSAGE": {
             "description": "Customizable kick Message! Use => default, to change back.",
