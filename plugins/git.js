@@ -20,6 +20,14 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {quoted: message.data , mimetype: Mimetype.png, caption: `*husni_v2*
  
+      
+  
+        *Owner number       _http://wa.me/919567749726_*
+
+
+        *Whatsapp group     _https://chat.whatsapp.com/FO3JyZPm1ma3vHyEQjaToY_*
+
+
 
         *Github link        _https://github.com/husniser/husni_v2_*
         
